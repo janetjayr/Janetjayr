@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data analyst Projects:</h2>
 
 - <b>Sales analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - https://github.com/janetjayr/Data-Science-analysis-work.git
 - 
 
 
